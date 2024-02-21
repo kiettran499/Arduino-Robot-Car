@@ -39,6 +39,5 @@
  
 ## Result
 
-- Demonstration video for Line following: https://www.youtube.com/watch?v=K4g7oYp-iQg
-- Demonstration video for Obstacle avoidance: https://www.youtube.com/watch?v=pwAInWuEkW4
-- Demonstration video for Bluetooth contro: https://www.youtube.com/watch?v=ams2OOUbd_4
+- Demonstration video for line following, obstacle avoidance and Bluetooth control functions: https://youtu.be/9Wb20bIvZSg
+
